@@ -183,6 +183,38 @@ Spread marinara sauce over pizza, leaving a 1-inch border. Add eggplant in an ev
 6. Plate Pizza
 Cut pizza into slices, garnish with basil, and dig in. Refrigerate any leftovers in an airtight container for up to 3 days.
 ---------------------------------------------------------------------------------------
+
+[ Vegetarian Risotto]
+
+Serves: 4
+
+Ingredients:
+45g butter
+1 shallot, finely chopped
+2 big garlic cloves, finely chopped
+1 bay leaf
+300g buckwheat
+150ml white wine
+15g dried porcini mushrooms soaked in 800ml water, drained, liquid reserved and mushrooms chopped
+200g Portobello mushrooms, sliced
+250g chestnut mushrooms, sliced
+200g cooked beetroot, grated
+100ml crème fraîche
+1 tbsp creamed horseradish
+½ small pack dill, leaves chopped, plus some fronds to serve
+juice ½ lemon
+
+Steps:
+1. Mix all the ingredients for the buraczki together in a bowl with some seasoning, then set aside.
+
+2. Melt 15g of the butter in a sauté pan over a medium heat. Add the shallot and a pinch of salt and cook for 8 mins until softened but not coloured, stirring occasionally. Stir in the garlic and bay leaf, cook for 1 min more, then tip in the buckwheat. Toast the grain for 1 min then pour in the wine. Once the wine has nearly reduced, add some of the mushroom liquor and stir until absorbed.
+
+3. Continue to gradually add the liquor and stir occasionally until all the liquor has been used and the buckwheat is tender but with a slight bite. This will take 20 mins.
+
+4. Meanwhile, heat the remaining butter in a frying pan over a high heat. Add the mushrooms and fry for 5 mins until all the liquid has evaporated and they are golden. Don’t worry if the butter goes brown – this adds a welcome nutty taste.
+
+5. Add the mushrooms to the risotto, give it a good stir and season to taste. Serve in bowls topped with the buraczki and some dill fronds.
+---------------------------------------------------------------------------------------
 *********************************************************************************************************************************************************************************************
 
 [[Desserts]]
@@ -257,32 +289,6 @@ Method:
 
 [Home Made Sorbet]
 
-Serves: 2
-
-Ingredients:
-
-227g raspberry
-3 tbsp sugar syrup
-lemon juice 
-
-Steps :
-
-Sugar Syrup:
-
-1.Combine the sugar and water in a saucepan and heat until the sugar dissolves. Simmer for a further 15-20 minutes until you get a sugar syrup. Pour into a glass jar/bottle. Let it cool completely and for best results, chill in the fridge until you need it.
-
-Fruit Sorbet:
-
-1.Cut up whole fruits into ½ inch cubes (except raspberries - these can be frozen whole).
-2.Lay out the fruits in a single layer on parchment paper lined baking trays (it's OK if the fruits touch).
-3.Freeze the fruits completely and store them in freezer bags.
-4.Roughly weigh out 8 oz of the frozen fruit and place it in a small food processor or ice crushing blender.
-5.Pulse to crush the fruits into small pieces and add the simple syrup, a tablespoon at a time (while pulsing) to create a smooth sorbet-like paste. Please see notes.
-6.Add a squeeze of lemon juice and run the blender for a few seconds to mix.
-7.Spoon it into a bowl and serve immediately - or store in the freezer until you’re ready.
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [Chocolate Cake]
 
 Serves: 12
@@ -302,15 +308,10 @@ Ingredients:
 1 cup boiling water
 
 Steps:
-
-<<<<<<< HEAD
-=======
 1.Preheat oven to 350 degrees F (175 degrees C). Grease and flour two nine inch round pans.
 2.In a large bowl, stir together the sugar, flour, cocoa, baking powder, baking soda and salt. 
 3.Add the eggs, milk, oil and vanilla, mix for 2 minutes on medium speed of mixer. 
 4.Stir in the boiling water last. Batter will be thin. Pour evenly into the prepared pans.
 5.Bake 30 to 35 minutes in the preheated oven, until the cake tests done with a toothpick. 
 6.Cool in the pans for 10 minutes, then remove to a wire rack to cool completely.
-
->>>>>>> feac8d9d68c9ea451da3545d2b83359c25366458
 ***************************************************************************************
