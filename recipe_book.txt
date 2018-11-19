@@ -1,5 +1,5 @@
 [Introduction]
-This recipe book is a compilation of recipes encompassing various cuisines, which were adapted from multiple websites. The recipes include 4 starters, 4 main courses, and 4 dessert recipes, which are of varying difficulty and cooking time. Note that the serving size may vary from recipe to recipe.
+This recipe book is a compilation of recipes encompassing various cuisines, which were adapted from multiple websites. The recipes include 4 starters, 4 main courses, and 4 dessert recipes, which are of varying difficulty and cooking time. Note that the size of one serving may vary from recipe to recipe.
 
 [[Starters]]
 ***************************************************************************************
