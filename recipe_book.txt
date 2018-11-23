@@ -20,6 +20,8 @@ This recipe book is a compilation of recipes encompassing various cuisines, whic
 
                                                                                              Desserts
                                                                                          -Sweet Ravioli-
+                                                                                      -Caramel Apple Pizza-
+                                                                          -Chocolate pasta with hazelnut cream sauce-
                                                                                           
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -272,6 +274,8 @@ Steps:
 
 [ Sweet Ravioli ]
 
+Serves: 6
+
 Ingredients:
 225g butter, softened
 134g cup white sugar
@@ -306,6 +310,72 @@ Steps:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[ Caramel Apple Pizza ]
+
+Serves: 4
+
+Ingredients:
+125ml hot water
+4g instant yeast
+1 Tablespoon olive oil
+1/2 tsp salt
+180g all purpose flour
+295g apples, peeled and finely diced
+76g flour
+123g brown sugar
+1/2 tsp cinnamon
+1/4 tsp nutmeg
+115g cold butter
+45g oatmeal
+
+Instructions:
+
+1.To make the crust, combine hot water and yeast in a large bowl. Let sit for a few minutes until a foam develops. 
+2.Stir in the brown sugar, olive oil, salt and flour. Knead for a few minutes until dough is stretchy. Let sit for 30 minutes to rise.
+3.Meanwhile, peel and dice the apples. 
+4.Toss them with the flour, brown sugar, cinnamon and nutmeg. 
+5.Grease and lightly dust a pizza pan with cornmeal. Preheat oven to 400 F. Pat out the dough into a 12 - 15 inch circle. Lightly brush with olive oil. Spread the apples on top of the dough.
+6.To make the streusel, mix together the flour and brown sugar. 
+7.Cut in the cold butter until it makes pea-sized crumbs. 
+8.Gently stir in oatmeal. Sprinkle over the apples.
+9.Bake at 400 F. for 28-22 minutes or until the apples are tender and the crust is browned. Let cool slightly. Serve warm with caramel and vanilla ice cream.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Chocolate pasta with hazelnut cream sauce]
+
+Serves: 4
+
+Ingredients:
+2 1/2 cups all-purpose flour, plus more if needed
+1/4 cup unsweetened cocoa powder, preferably Dutch-processed
+1/4 cup powdered sugar
+Pinch salt
+3 large eggs, beaten
+1 tablespoon chocolate syrup
+1 teaspoon vanilla extract
+1 cup heavy cream
+1 cup Nutella
+2 pints raspberries, for garnish
+Creme fraiche, for garnish
+White chocolate shavings, for garnish
+Chopped skinless, toasted hazelnuts, for garnish
+
+Steps:
+
+1) For the pasta: Sift together the flour, cocoa and sugar. Add a pinch salt and mound the flour mixture in a large bowl or on a clean work surface. Hollow out the center, making a well in    the middle of the flour with steep sides. Break eggs into the well. Add chocolate syrup and vanilla. Gently mix together with a fork. Gradually start incorporating the flour by pulling    in the flour from the sides of the well. As you incorporate more of the flour, the dough will start to take shape. Once it gets thick, you can use a spatula to incorporate the rest of    the flour.
+
+2) If the dough is too dry, add a little water. If the dough is too wet or sticky, add a little flour. Once the dough comes together, knead the dough on a clean work surface until it    becomes smooth, about 8 min. Shape into a disc, cover with plastic wrap and let rest in the fridge, 20 to 30 min.
+
+3) Divide rested dough into quarters and work with one piece at a time, covering your other pieces to keep them moist. Flour each piece lightly, shape it into a rectangular shape and put it    through a pasta sheeter attachment, starting at the widest setting. Run the dough once through the largest setting, fold it into thirds and run it through one more time. Then run the    pasta through the sheeting attachment once on every number, stopping at 5 or 6, depending on how thick you would like it. Lightly flour the rolled out pasta sheet and fold in half. Take    your chef knife and cut ribbons about a 1/2-inch thick, then unravel the pasta ribbons and place on a floured baking sheet to keep from sticking.
+
+4) For the sauce: Bring the heavy cream to a simmer in a heavy-bottomed saucepan over medium-high heat and stir in the chocolate-hazelnut spread. Add a pinch salt and continue whisking    until the sauce is creamy. Remove from the heat and reserve.
+
+5) Cook the chocolate pasta in a large pot of boiling water, 3 minutes. Immediately remove the pasta from the water and toss gently with the sauce and a little of the pasta cooking water to    help with the consistency.
+
+6) Mound the pasta and sauce on dessert plates and garnish with the fresh berries, a dollop of creme fraiche, white chocolate shavings and skinless toasted chopped hazelnuts, to garnish.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 											[[ -Conclusion- ]]
 
 *********************************************************************************************************************************************************************************************
@@ -336,6 +406,9 @@ https://www.plated.com/recipes/eggplant-pizza-alla-norma-with-mozzarella-and-ric
 (Pasta alla puttanesca)
 https://www.epicurious.com/recipes/food/views/spaghetti-alla-puttanesca-241131
 
+(Pizza Siciliana)
+https://www.surlatable.com/product/REC-236627/Pizza+alla+Siciliana+-+Pizza+Sicilian+Style
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [ Desserts ] 
@@ -343,4 +416,8 @@ https://www.epicurious.com/recipes/food/views/spaghetti-alla-puttanesca-241131
 (Sweet Ravioli)
 https://www.allrecipes.com/recipe/45204/ravioli-dolci-sweet-ravioli/
 
+(Caramel Apple Pizza)
+http://chocolatewithgrace.com/caramel-apple-dessert-pizza/
+
+(Chocolate pasta with hazelnut cream sauce)
 
