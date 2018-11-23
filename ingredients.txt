@@ -1,7 +1,7 @@
 [ Dairy & Eggs ] 
      
 227 Clotted cream
-250g Butter
+360g Butter
 100g Parmesian
 30g Ricotta
 100g Mozzarella
@@ -19,6 +19,7 @@ Garlic
 2 Onions
 1 Lemon
 115g Cherry preserves
+3 Apples
 
 *********************************************************************************************************************************************************************************************
 [ Meat ]
@@ -32,23 +33,26 @@ Garlic
 [ Bread, Cereal & Pasta ]
 250g Fettuccine
 500g Pizza dough
-350g spaghetti
+350g Spaghetti
+45g Oatmeal
 
 *********************************************************************************************************************************************************************************************
 [ Beverages ]
 
-3 cups Water
+825 cups Water
 
 *********************************************************************************************************************************************************************************************
 [ Dry Goods ]  
 
 1 tsp Cornflour
-70 ml Fresh yeast
+74 ml Fresh yeast
 1.5 kg Durum wheat flour
 134g White sugar
-325g All-purpose flour
+505g All-purpose flour
+76g Flour
 1/4 tsp Baking soda
-55g confectioners' sugar
+55g Confectioners' sugar
+123g Brown sugar
 
 *********************************************************************************************************************************************************************************************
 [ Canned Goods ]    
@@ -67,12 +71,14 @@ Snipped chives
 2 tbsp Parsley
 Salt
 Pepper
+Cinnamon
 
 *********************************************************************************************************************************************************************************************
 [ Condiments and Sauces ]  
 
 200g Pizza Sauce
 150ml Extra virgin olive oil
+1tbsp Olive oil
 1 1/2 tsp vanilla extract
 1/4 tsp almond extract
 
