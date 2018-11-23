@@ -61,6 +61,7 @@ Shiitake mushrooms
 290g Cherries
 200g Watermelon
 2 Red peppers
+
 *********************************************************************************************************************************************************************************************
 [ Meat ]
 
@@ -71,6 +72,7 @@ Shiitake mushrooms
 8 Tiger prawns
 50g Little prawns
 100g Crabmeat
+
 *********************************************************************************************************************************************************************************************
 [ Bread, Cereal & Pasta ]
 250g Fettuccine
@@ -133,13 +135,12 @@ White Chocolate shavings
 397g Can condensed milk
 300ml Whipping cream
 50ml Sugar syrup
-425g Canned tuna
+625g Canned tuna
 440g Canned cream oyster soup
 1l Chicken stock
 285g Can cream-style sweet corn
 800g Peeled tomatoes
 800ml Peeled cherry tomatoes
-200g Canned tuna
 
 ********************************************************************************************************************************************************************************************* 
 [ Herbs and Spices ]  
@@ -193,4 +194,5 @@ Balsamic Vinegar
 1tbsp Chocolate syrup
 1 cup Nutella
 500ml Apple vinegar
+
 *********************************************************************************************************************************************************************************************
